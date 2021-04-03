@@ -1,3 +1,4 @@
+# Teste github
 valor = int(input("Informe o valor do produto: "))
 numparc = int(input("Informe o número de parcelas: "))
 valparc = 0
